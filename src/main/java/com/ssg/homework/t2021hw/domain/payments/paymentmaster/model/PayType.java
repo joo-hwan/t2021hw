@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 /*
 결제 타입 enum
+
  */
 public enum PayType {
     PT01,
